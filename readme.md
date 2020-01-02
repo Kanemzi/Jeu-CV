@@ -27,7 +27,7 @@ Les compétences et expériences présentées se limitent à Avril 2018 (date de
 ![alt text](https://github.com/SimonROZEC/Jeu-CV/blob/master/screenshots/fin.png)
 *la fin du jeu (futur du parcours du joueur) est toujours en construction*  
 *le jeu invite à consulter les compétences actuelles*  
-*il est également possible de se rendre sur les pages des projets en cliquand sur les icônes en haut à droite*
+*il est également possible de se rendre sur les pages des projets en cliquant sur les icônes en haut à droite*
 
 
 
